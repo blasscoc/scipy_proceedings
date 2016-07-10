@@ -1,6 +1,9 @@
 :author: Ben Lasscock
 :email: blasscoc@gmail.com
 :institution: Geotrace Technologies
+:author: Michael Glinsky
+:email: glinsky@qitech.biz
+:institution: qiTech Consulting
 
 -------------------------------------
 Generalized earthquake classification
